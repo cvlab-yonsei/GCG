@@ -1,0 +1,8 @@
+# Versions used to produce the reported numbers (Python 3.11, CUDA 12.1).
+torch==2.4.1
+transformers==4.49.0
+accelerate==0.34.2
+datasets==3.6.0
+wonderwords==3.0.1
+lm_eval==0.4.8
+# flash-attn==2.7.4.post1 is installed separately from a prebuilt wheel (see README).

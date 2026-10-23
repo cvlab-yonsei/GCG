@@ -1,0 +1,25 @@
+# Evaluation outputs and logs
+outputs/
+logs/
+*.log
+*.out
+nohup.out
+icl_inference_output/
+tmp/
+
+# Datasets and caches (downloaded or placed locally, see README)
+/data/
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
